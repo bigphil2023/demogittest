@@ -1,0 +1,16 @@
+Exercise: Branch Management and Conflict Resolution
+
+Imagine you're working on a software development team, and you're using Git and GitHub for version control. You've been tasked with the following scenario:
+
+Create a new Git repository on your local machine.
+Initialize the repository with a README.md file and make an initial commit.
+Create a branch named "feature-branch" and make some changes to a file called "app.js" on this branch.
+Meanwhile, a colleague creates a branch named "bug-fix" and makes changes to the same "app.js" file.
+You both push your branches to the remote GitHub repository.
+A conflict arises because both of you modified the same lines in "app.js".
+Resolve the conflict by merging the changes from the "bug-fix" branch into the "feature-branch."
+Push the changes to the remote repository.
+Finally, create a pull request from "feature-branch" to the main branch and provide a brief explanation of the changes.
+Your task is to demonstrate this entire process using Git commands. Explain your thought process and the commands you're using along the way. Additionally, make sure to handle the conflict resolution effectively.
+
+This exercise assesses the candidate's knowledge of Git and GitHub, including branch management, conflict resolution, and the process of creating and merging pull requests. It also tests their ability to explain their actions and thought process clearly.
