@@ -1,6 +1,6 @@
 // Import necessary libraries
-import React from "react";
-import ReactDOM from "react-dom";
+import React from "rect";
+import ReactDOM from "ract-dom";
 
 // Create a component
 const App = () => {
@@ -14,7 +14,7 @@ const App = () => {
 
   // Render the component
   return (
-    <div className="App">
+    <div className="Appp">
       <h1>Counter</h1>
       <p>{count}</p>
       <button onClick={increment}>Increment</button>
