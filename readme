@@ -1,6 +1,6 @@
 Exercise: Branch Management and Conflict Resolution
 
-Imagine you're working on a software development team, and you're using Git and GitHub for version control. You've been tasked with the following scenario:
+ you're working on a software development team, and you're using Git and GitHub for version control. You've been tasked with the following scenario:
 
 Create a new Git repository on your local machine.
 Initialize the repository with a README.md file and make an initial commit.
