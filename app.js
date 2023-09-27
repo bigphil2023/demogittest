@@ -1,5 +1,5 @@
 // Import necessary libraries
-import React from "rect";
+import React from "react";
 import ReactDOM from "ract-dom";
 
 // Create a component
